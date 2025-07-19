@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage('Build') {
             steps{
-                echo "Building now"
+                echo "Building now 2025"
                 echo "Starting the project 2025"
             }
         }
