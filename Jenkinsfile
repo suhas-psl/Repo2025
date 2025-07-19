@@ -11,7 +11,7 @@ pipeline{
             steps{
                 echo "TEsting now"
                 echo "Hello World 2025"
-		echi "This is on branch 1907"
+		echo "This is on branch 1907"
             }
         }
         stage('Deploy'){
